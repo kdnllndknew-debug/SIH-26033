@@ -43,6 +43,11 @@ Technologies Used:
 - Mapping: Google Maps API.
 - Cloud: Firebase or AWS.
 
+Workflow:
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2d960f48-9eaf-4ac1-b1fb-7893961eb9b1" />
+
+
 ## Feasibility and Viability
 The platform can initially be implemented in a small agricultural community and expanded gradually.
 
